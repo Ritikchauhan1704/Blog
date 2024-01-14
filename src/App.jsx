@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import {useState, useEffect} from 'react';
 import {useDispatch} from 'react-redux';
 import authService from './appwrite/auth';
